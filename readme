@@ -1,0 +1,8 @@
+1. add new training pictures
+- put in dataset/with_smask and dataset/without_mask
+
+2. train the model to detect mask
+- python3 train_mask_detector.py --dataset dataset
+
+3. detect mask and whether worn properly with video stream
+python3 detect_mask_video.py 
