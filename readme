@@ -1,3 +1,8 @@
+This is the final project for CS 766: computer vision of Spring 21
+
+This can be used to detect 1. Whether a person is wearing a mask. 2. Whether the mask is worn properly.
+
+
 1. add new training pictures
 - put in dataset/with_smask and dataset/without_mask
 
